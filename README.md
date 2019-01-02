@@ -15,7 +15,7 @@ $ npm install @nickfoden/tiny
 ## Usage
 
 ```js
-const tiny = require("@nickfoden/tiny");
+import tiny from "@nickfoden/tiny";
 
 tiny("So much space!");
 //=> "Somuchspace!"
